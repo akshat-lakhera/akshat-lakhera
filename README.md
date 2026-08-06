@@ -55,7 +55,7 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
 
 ## 🌟 Featured Projects
 
-### 🛡️ 1. DeepGuard AI — Deepfake Detection System
+### 🛡️ 1. [DeepGuard AI — Deepfake Detection System](https://github.com/akshat-lakhera/DEEPFAKE_DETECTION_MODEL)
 > **Enterprise-grade Deepfake Detection with Deep Learning & Explainability**
 
 - **Tech Stack:** Python, TensorFlow 2.15, EfficientNetB4, MTCNN, Grad-CAM, Gradio, Docker
@@ -72,27 +72,27 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
   - High-performance database client supporting **PostgreSQL, MySQL/MariaDB, SQLite, MSSQL, Redis, MongoDB, ScyllaDB, and ClickHouse**.
   - Developed custom query profiling (`EXPLAIN ANALYZE` visualizer), transaction manager, and 500-row chunked result streaming.
 
-### 📹 3. Hopper v2 — Verified Student Video & Voice Matchmaking
+### 📹 3. [Hopper v2 — Verified Student Video & Voice Matchmaking](https://github.com/akshat-lakhera/hopper-v2)
 > **Real-Time WebRTC Matchmaking Platform for College Students**
 - **Tech Stack:** Next.js 16, React 19, Fastify, WebRTC, Socket.IO, PostgreSQL (Prisma), Redis
 - **Key Highlights:**
   - Designed real-time peer-to-peer video/voice chat restricted to verified college email domains (`.edu`, `.ac.in`).
   - Implemented custom WebRTC peer connection manager with Socket.IO signaling and Redis queues.
 
-### 💬 4. Loan Assistant Chatbot & Document Verifier
+### 💬 4. [Loan Assistant Chatbot & Document Verifier](https://github.com/akshat-lakhera/loan-chatbot)
 > **AI-Powered Fintech Assistant with Automated Document Verification**
 - **Tech Stack:** Python, FastAPI, React 18, Groq LLM API, SQLAlchemy, Pillow
 - **Key Highlights:**
   - Conversational loan assistant with EMI calculations, risk scoring, and automated AI document verification.
 
-### 📓 5. OpenOnyx — Local-First Knowledge Workspace *(Open-Source Contributor)*
+### 📓 5. [OpenOnyx — Local-First Knowledge Workspace](https://github.com/akshat-lakhera/OpenOnyx) *(Open-Source Contributor)*
 > **AI-Assisted Markdown Vault & Thinking Layer Desktop App**
 
 - **Tech Stack:** Electron 41, React 19, TypeScript, CodeMirror 6, D3.js, Transformers.js
 - **Key Highlights:**
   - Contributed UX/feature enhancements including **live interactive notes preview**.
 
-### 🧪 6. Keystroke Lab — High-Performance Typing Diagnostics
+### 🧪 6. [Keystroke Lab — High-Performance Typing Diagnostics](https://github.com/akshat-lakhera/keystroke-lab)
 > **Browser-Based Typing Diagnostics Bench with Error Memory**
 
 - **Tech Stack:** JavaScript (ES6+), React/Vite, Tailwind CSS, HTML5 Canvas
@@ -103,10 +103,10 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
 </p>
 
-## 🟩 GitHub Contribution Matrix
+## 🟩 Contribution Matrix Activity
 
 <p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/s?username=akshat-lakhera&theme=dark" width="90%" alt="GitHub 3D Contribution Matrix" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-lakhera&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity Matrix" />
 </p>
 
 ---
