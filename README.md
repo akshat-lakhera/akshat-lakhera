@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Coding Banner" />
 </p>
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akshat+Lakhera+%F0%9F%90%8D;2nd+Year+AI%2FML+Student+%F0%9F%A7%A0;Building+DeepGuard+AI+%26+DevDash+%E2%9A%A1;Local-First+AI+%26+Systems+Enthusiast+%F0%9F%92%A1" alt="Typing Header 1" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akshat+Lakhera+%F0%9F%91%8B;2nd+Year+AI%2FML+Student+%F0%9F%A7%A0;Building+DeepGuard+AI+%26+DevDash+%E2%9A%A1;Local-First+AI+%26+Systems+Enthusiast+%F0%9F%92%A1" alt="Typing Header 1" />
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=98C379&center=true&vCenter=true&width=800&lines=Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Full-Stack;Rust+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+TensorFlow;Turning+Complex+Algorithms+into+Products%F0%9F%9A%80" alt="Typing Header 2" />
 
