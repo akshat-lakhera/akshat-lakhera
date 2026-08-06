@@ -55,10 +55,6 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
 ### ⚡ 2. [DevDash — Local-First Database Engineering Platform](https://github.com/akshat-lakhera/DevDash)
 > **Native GUI Client & Multi-Engine Database Desktop App**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshat-lakhera/DevDash/main/docs/images/devdash_demo_animation.webp" width="90%" alt="DevDash Live Animation" style="border-radius: 8px;" />
-</p>
-
 - **Tech Stack:** Rust, Tauri v2, React 18, TypeScript, Tailwind CSS, SQLx
 - **Key Highlights:**
   - High-performance database client supporting **PostgreSQL, MySQL/MariaDB, SQLite, MSSQL, Redis, MongoDB, ScyllaDB, and ClickHouse**.
