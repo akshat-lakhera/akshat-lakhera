@@ -104,17 +104,13 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-lakhera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-lakhera&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-lakhera&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat-lakhera&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
-
----
-
-### 🐍 Contribution Grid Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat-lakhera/akshat-lakhera/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-lakhera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-lakhera&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
