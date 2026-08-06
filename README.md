@@ -1,10 +1,16 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Header GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Coding Banner" />
 </p>
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Akshat+Lakhera+%F0%9F%90%8D;2nd+Year+AI%2FML+Undergraduate+%F0%9F%A7%A0;Building+DeepGuard+AI+%26+DevDash+%E2%9A%A1;Enthusiast+for+Local-First+AI+%26+Systems" alt="Typing SVG Header" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Akshat+Lakhera+%F0%9F%90%8D;2nd+Year+AI%2FML+Student+%F0%9F%A7%A0;Building+DeepGuard+AI+%26+DevDash+%E2%9A%A1;Enthusiast+for+Local-First+AI+%26+Systems" alt="Typing Header 1" />
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=98C379&center=true&vCenter=true&width=600&lines=Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Full-Stack;Rust+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+TensorFlow;Turning+Complex+Algorithms+into+Products%F0%9F%9A%80" alt="Typing Header 2" />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-49b8-8488-8797b5e4c022.gif" width="400" alt="Coding GIF Animation" />
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akshat-lakhera&color=61afef&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akshat-lakhera)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gen-z-coder/)
@@ -13,13 +19,17 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
+</p>
 
 ### 🧠 About Me
 
 I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** student passionate about deep learning, computer vision, local-first architectures, and modern high-performance desktop & web applications.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
+</p>
 
 ## ⚡ Tech Stack & Tools
 
@@ -39,7 +49,9 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
+</p>
 
 ## 🌟 Featured Projects
 
@@ -87,30 +99,14 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
 - **Key Highlights:**
   - Zero-latency smooth caret typing test featuring per-letter error heatmaps and weak-spot drill generation.
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat-lakhera&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
 </p>
 
----
-
-## 📈 Contribution Activity & Stats
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-lakhera&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshat-lakhera&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshat-lakhera&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-lakhera&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
