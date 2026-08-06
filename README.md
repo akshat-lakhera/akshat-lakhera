@@ -104,13 +104,13 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-lakhera&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshat-lakhera&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-lakhera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshat-lakhera&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-lakhera&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-lakhera&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
