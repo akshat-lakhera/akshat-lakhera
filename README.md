@@ -103,10 +103,10 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
 </p>
 
-## 📈 Contribution Activity
+## 🟩 GitHub Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-lakhera&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-3d-contrib.vercel.app/s?username=akshat-lakhera&theme=dark" width="90%" alt="GitHub 3D Contribution Matrix" />
 </p>
 
 ---
