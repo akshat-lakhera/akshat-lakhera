@@ -103,6 +103,12 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
 </p>
 
+## 🔥 Contribution Thermal Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00F0FF/akshat-lakhera" width="100%" alt="Akshat's Contribution Thermal Heatmap Grid" />
+</p>
+
 ---
 
 <p align="center">
