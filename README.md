@@ -13,6 +13,7 @@
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akshat-lakhera&color=61afef&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akshat-lakhera)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Goku_VeGiTa/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gen-z-coder/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshat-lakhera.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatlakhera031@gmail.com)
@@ -53,6 +54,18 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
 </p>
 
+## 🧩 LeetCode Stats & Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/Goku_VeGiTa/">
+    <img src="https://leetcode-stats-api.herokuapp.com/Goku_VeGiTa" alt="Goku_VeGiTa's LeetCode Progress" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
+</p>
+
 ## 🌟 Featured Projects
 
 ### 🛡️ 1. [DeepGuard AI — Deepfake Detection System](https://github.com/akshat-lakhera/DEEPFAKE_DETECTION_MODEL)
@@ -83,7 +96,7 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
 > **AI-Powered Fintech Assistant with Automated Document Verification**
 - **Tech Stack:** Python, FastAPI, React 18, Groq LLM API, SQLAlchemy, Pillow
 - **Key Highlights:**
-  - Conversational loan assistant with EMI calculations, risk scoring, and automated AI document verification.
+  - Conversational loan assistant with EMI calculations, risk scoring, and automated ID/document validation.
 
 ### 📓 5. [OpenOnyx — Local-First Knowledge Workspace](https://github.com/akshat-lakhera/OpenOnyx) *(Open-Source Contributor)*
 > **AI-Assisted Markdown Vault & Thinking Layer Desktop App**
