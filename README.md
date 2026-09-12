@@ -58,7 +58,13 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
 
 <p align="center">
   <a href="https://leetcode.com/u/Goku_VeGiTa/">
-    <img src="https://leetcode-stats-api.herokuapp.com/Goku_VeGiTa" alt="Goku_VeGiTa's LeetCode Progress" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Goku_VeGiTa&theme=dark" alt="Goku_VeGiTa's LeetCode Progress" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Goku_VeGiTa/">
+    <img src="https://leetcard.jacoblin.cool/Goku_VeGiTa?theme=dark&font=Fira%20Code&ext=heatmap" alt="Goku_VeGiTa's LeetCode Card" />
   </a>
 </p>
 
