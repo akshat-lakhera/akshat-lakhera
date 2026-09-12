@@ -72,51 +72,37 @@ I am a second-year **Artificial Intelligence & Machine Learning (AI/ML)** studen
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
 </p>
 
-## 🌟 Featured Projects
+## 🚀 What I'm Up To
 
-### 🛡️ 1. [DeepGuard AI — Deepfake Detection System](https://github.com/akshat-lakhera/DEEPFAKE_DETECTION_MODEL)
-> **Enterprise-grade Deepfake Detection with Deep Learning & Explainability**
+- 🔭 **Currently Building:** High-performance local-first developer tools & deep learning models.
+- 🎓 **Education:** 2nd Year **B.Tech AIML (Artificial Intelligence & Machine Learning)**.
+- ⚙️ **Core Focus:** Computer Vision (Grad-CAM, MTCNN), Deepfake Detection, Rust Desktop Engineering (Tauri 2.0), Real-Time Systems (WebRTC, Fastify, Socket.IO).
+- 💡 **Engineering Philosophy:** *"Build local-first, keep latencies near-zero, and explain model decisions."*
 
-- **Tech Stack:** Python, TensorFlow 2.15, EfficientNetB4, MTCNN, Grad-CAM, Gradio, Docker
-- **Key Highlights:**
-  - Built a 19.3M parameter deepfake classifier achieving **95.48% validation accuracy** and **0.9913 AUC**.
-  - Engineered **V2 Cyclic Fine-Tuning** across 6 data cycles with MD5 hash deduplication to eliminate overfitting.
-  - Integrated **Grad-CAM visual focus maps** to explain neural network predictions and **MTCNN** for precise face localization.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
+</p>
 
-### ⚡ 2. [DevDash — Local-First Database Engineering Platform](https://github.com/akshat-lakhera/DevDash)
-> **Native GUI Client & Multi-Engine Database Desktop App**
+## 🛠️ Key Builds at a Glance
 
-- **Tech Stack:** Rust, Tauri v2, React 18, TypeScript, Tailwind CSS, SQLx
-- **Key Highlights:**
-  - High-performance database client supporting **PostgreSQL, MySQL/MariaDB, SQLite, MSSQL, Redis, MongoDB, ScyllaDB, and ClickHouse**.
-  - Developed custom query profiling (`EXPLAIN ANALYZE` visualizer), transaction manager, and 500-row chunked result streaming.
+*Compact overview of software & systems I've engineered:*
 
-### 📹 3. [Hopper v2 — Verified Student Video & Voice Matchmaking](https://github.com/akshat-lakhera/hopper-v2)
-> **Real-Time WebRTC Matchmaking Platform for College Students**
-- **Tech Stack:** Next.js 16, React 19, Fastify, WebRTC, Socket.IO, PostgreSQL (Prisma), Redis
-- **Key Highlights:**
-  - Designed real-time peer-to-peer video/voice chat restricted to verified college email domains (`.edu`, `.ac.in`).
-  - Implemented custom WebRTC peer connection manager with Socket.IO signaling and Redis queues.
+- 🛡️ **[DeepGuard AI](https://github.com/akshat-lakhera/DEEPFAKE_DETECTION_MODEL)** — Enterprise deepfake detection system (EfficientNetB4, 95.48% Acc, Grad-CAM maps).
+- ⚡ **[DevDash](https://github.com/akshat-lakhera/DevDash)** — Native local-first multi-database GUI client (Rust, Tauri v2, React).
+- 📹 **[Hopper v2](https://github.com/akshat-lakhera/hopper-v2)** — Real-time WebRTC matchmaking for verified students (Next.js 16, Fastify, Socket.IO, Redis).
+- 💬 **[Loan Assistant AI](https://github.com/akshat-lakhera/loan-chatbot)** — Conversational fintech assistant with automated document validation (FastAPI, Groq LLM).
+- 📓 **[OpenOnyx](https://github.com/akshat-lakhera/OpenOnyx)** — Open-source local markdown knowledge workspace (Electron, CodeMirror).
+- 🧪 **[Keystroke Lab](https://github.com/akshat-lakhera/keystroke-lab)** — Zero-latency browser typing diagnostics bench with weakness memory.
 
-### 💬 4. [Loan Assistant Chatbot & Document Verifier](https://github.com/akshat-lakhera/loan-chatbot)
-> **AI-Powered Fintech Assistant with Automated Document Verification**
-- **Tech Stack:** Python, FastAPI, React 18, Groq LLM API, SQLAlchemy, Pillow
-- **Key Highlights:**
-  - Conversational loan assistant with EMI calculations, risk scoring, and automated ID/document validation.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Line Divider" />
+</p>
 
-### 📓 5. [OpenOnyx — Local-First Knowledge Workspace](https://github.com/akshat-lakhera/OpenOnyx) *(Open-Source Contributor)*
-> **AI-Assisted Markdown Vault & Thinking Layer Desktop App**
+## 💬 Dev Quote
 
-- **Tech Stack:** Electron 41, React 19, TypeScript, CodeMirror 6, D3.js, Transformers.js
-- **Key Highlights:**
-  - Contributed UX/feature enhancements including **live interactive notes preview**.
-
-### 🧪 6. [Keystroke Lab — High-Performance Typing Diagnostics](https://github.com/akshat-lakhera/keystroke-lab)
-> **Browser-Based Typing Diagnostics Bench with Error Memory**
-
-- **Tech Stack:** JavaScript (ES6+), React/Vite, Tailwind CSS, HTML5 Canvas
-- **Key Highlights:**
-  - Zero-latency smooth caret typing test featuring per-letter error heatmaps and weak-spot drill generation.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 ---
 
