@@ -87,7 +87,7 @@ I am a third-year **Artificial Intelligence & Machine Learning (AI/ML)** student
 
 *Compact overview of software & systems I've engineered:*
 
-- 🎙️ **[Vaani](https://github.com/rishi-jat/vaani)** — Voice-enabled RAG system over MSMARCO-XI with Sarvam Saaras STT & grounded extractive answers (Built for HH Goa 2026).
+- 🎙️ **[Vaani](https://github.com/akshat-lakhera/vaani)** — Voice-enabled RAG system over MSMARCO-XI with Sarvam Saaras STT & grounded extractive answers (Built for HH Goa 2026).
 - 🌐 **[MarketScout](https://github.com/akshat-lakhera/scrapper)** — Web scraper & monitoring platform with Bright Data collector integration, validation-gated self-healing, & Living RAG assistant (Scrape Verse HackThink).
 - 🛡️ **[DeepGuard AI](https://github.com/akshat-lakhera/DEEPFAKE_DETECTION_MODEL)** — Enterprise deepfake detection system (EfficientNetB4, 95.48% Acc, Grad-CAM maps).
 - ⚡ **[DevDash](https://github.com/akshat-lakhera/DevDash)** — Native local-first multi-database GUI client (Rust, Tauri v2, React).
